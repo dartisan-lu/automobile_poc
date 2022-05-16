@@ -1,0 +1,14 @@
+# POC
+
+A simple Poc for
+
+* Import XML in MongoDB
+* Structuring common/backend/frontend
+* Experimenting with JSON Generator
+* Experimenting Responsive
+* Experimenting IN10
+* Experimenting Pluto Grid Table
+
+XML Data can be downloaded from Open Portal:
+
+https://data.public.lu/fr/datasets/parc-automobile-du-luxembourg/

@@ -1,0 +1,20 @@
+# IntelliJ
+.idea
+*.iml
+
+# Flutter
+frontend/.dart_tool
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.packages
+frontend/build
+
+# Dart
+backend/.dart_tool
+backend/.packages
+backend/build
+
+# Data
+data/description-des-donnees-exportees-vers-opendata-v.1.7.pdf
+data/parc-automobile-202205.xml
+data/parc-automobile-v1.3.xsd
