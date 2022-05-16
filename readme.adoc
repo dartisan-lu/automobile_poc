@@ -5,9 +5,9 @@ A simple Poc for
 * Import XML in MongoDB
 * Structuring common/backend/frontend
 * Experimenting with JSON Generator
-* Experimenting Responsive
+* Experimenting Responsive Design (Basic)
 * Experimenting IN10
-* Experimenting Pluto Grid Table
+* Experimenting Pluto Grid Table https://weblaze.dev/pluto_grid/build/web/#/
 
 XML Data can be downloaded from Open Portal:
 
